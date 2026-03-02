@@ -1,0 +1,6 @@
+Book,20,The Great Gatsby,F. Scott Fitzgerald,1925,false,false
+Book,21,Frankenstein,Mary Shelley,1823,false,false
+Magazine,40,New Yorker,1925,false
+Magazine,41,Paris Review,1953,false
+DVD,60,Se7en,1995,false
+Book,12,w,e,23,false,false
